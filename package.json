@@ -1,0 +1,22 @@
+{
+  "name": "nodecli",
+  "bin": "./index.js",
+  "version": "1.0.0",
+  "description": "Dictionary CLI Project Using Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Dictionary",
+    "CLI"
+  ],
+  "author": "Siddhartha M",
+  "license": "MIT",
+  "dependencies": {
+    "link": "^0.1.5",
+    "request": "^2.88.2",
+    "yarn": "^1.22.0"
+  }
+}
